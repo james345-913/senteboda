@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sente Boda</string>
+    <string name="app_slogan">Every shilling, on record.</string>
+
+    <!-- Auth -->
+    <string name="register_title">Create Account</string>
+    <string name="login_title">Rider Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+
+    <!-- Dashboard -->
+    <string name="greeting">Good morning, James 👋</string>
+    <string name="todays_profit">TODAY\'S PROFIT</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="weekly_performance">Weekly Performance</string>
+    <string name="latest_entries">Latest Entries</string>
+
+    <!-- Add Entry -->
+    <string name="add_entry_title">Add Entry</string>
+    <string name="tab_trip">TRIP</string>
+    <string name="tab_expense">EXPENSE</string>
+    <string name="amount_ugx">Amount (UGX)</string>
+    <string name="date">Date</string>
+    <string name="destination_note">Destination / Note</string>
+    <string name="expense_type">Expense Type</string>
+    <string name="save_trip">SAVE TRIP</string>
+    <string name="save_expense">SAVE EXPENSE</string>
+
+    <!-- History -->
+    <string name="history_title">Transaction History</string>
+    <string name="filter_all">All</string>
+    <string name="filter_trips">Trips</string>
+    <string name="filter_expenses">Expenses</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">My Profile</string>
+    <string name="reports_title">Financial Reports</string>
+    <string name="settings_title">Settings</string>
+    <string name="logout">Logout</string>
+</resources>

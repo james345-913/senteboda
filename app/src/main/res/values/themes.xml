@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SenteBoda" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/boda_yellow</item>
+        <item name="colorPrimaryVariant">@color/boda_yellow_dark</item>
+        <item name="colorOnPrimary">@color/text_dark</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/income_green</item>
+        <item name="colorOnSecondary">@color/text_white</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+
+    <style name="Theme.SenteBoda.NoActionBar" parent="Theme.SenteBoda">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/primary_dark_green_variant</item>
+    </style>
+</resources>

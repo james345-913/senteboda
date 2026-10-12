@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Dark Green & Boda Yellow Theme -->
+    <color name="primary_dark_green">#0B3C26</color>
+    <color name="primary_dark_green_variant">#062417</color>
+    <color name="boda_yellow">#FFC107</color>
+    <color name="boda_yellow_dark">#FFA000</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_dark">#121C17</color>
+    <color name="bg_card_dark">#1A2A23</color>
+    <color name="bg_card_light_green">#21362D</color>
+    <color name="bg_input">#283D33</color>
+
+    <!-- Status & Indicator Colors -->
+    <color name="income_green">#2ECC71</color>
+    <color name="expense_red">#E74C3C</color>
+
+    <!-- Text Colors -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#A0B0A8</color>
+    <color name="text_dark">#121C17</color>
+</resources>
